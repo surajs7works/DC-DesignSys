@@ -29,19 +29,19 @@ export const AllCards = () => (
     </div>    
     );
 
-    export const ListCards = () => (
-        <div>
-            <ListCards onClick={action('clicked')}>
+    // export const ListCards = () => (
+    //     <div>
+    //         <ListCards onClick={action('clicked')}>
             
-            <img alt="Remy Sharp" src={Gameimage}/>    
-            <div className="Card-content">        
-            <h4>Fuji Koro (2011)</h4>
-            <div className="short-info">
-                <li>1-6 Palyers</li>
-                <li>45-60 Min</li>
-                <li>Age 14+</li>
-            </div>  
-            </div>          
-            </ListCards>
-        </div>    
-        );
+    //         <img alt="Remy Sharp" src={Gameimage}/>    
+    //         <div className="Card-content">        
+    //         <h4>Fuji Koro (2011)</h4>
+    //         <div className="short-info">
+    //             <li>1-6 Palyers</li>
+    //             <li>45-60 Min</li>
+    //             <li>Age 14+</li>
+    //         </div>  
+    //         </div>          
+    //         </ListCards>
+    //     </div>    
+    //     );
