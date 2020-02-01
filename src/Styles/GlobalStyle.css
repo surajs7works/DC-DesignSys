@@ -1,0 +1,53 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+
+.icon-btn img{
+    position: relative;
+    top: 2px;
+    margin-right: 10px;
+}
+
+.tab-btn img{
+    margin-left: 5px;
+    position: relative;
+    top: 3px;
+}
+.link-btn img{
+    position: relative;
+    top: 7px;
+    margin-right: 10px;
+}
+
+
+.dropdoen-menu-list{
+    background: white;
+    width: max-content;
+    padding: 10px;
+    color: #000;
+    border-radius: 3px;
+    margin-top: 6px;
+
+  }
+
+.dropdoen-menu-list li{
+  list-style: none;
+  padding: 8px 12px;
+}
+
+
+.Card-content{
+  padding: 10px;
+}
+.Card-content h4{
+  margin: 10px 0px;
+}
+.short-info li{
+  list-style: none;
+    /* float: left; */
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
