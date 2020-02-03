@@ -40,6 +40,7 @@ body{
 
 .Card-content{
   padding: 10px;
+  float: left;
 }
 .Card-content h4{
   margin: 10px 0px;
@@ -50,4 +51,13 @@ body{
     display: inline;
     margin-right: 10px;
     font-size: 12px;
+}
+
+.ListCard-content{
+  padding: 5px 10px;
+  float: left;
+}
+
+.ListCard-content h4{
+  margin: 6px 0px;
 }
