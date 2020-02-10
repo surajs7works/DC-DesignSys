@@ -61,3 +61,55 @@ body{
 .ListCard-content h4{
   margin: 6px 0px;
 }
+
+.MuiSwitch-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiSwitch-colorPrimary.Mui-checked + .MuiSwitch-track {
+  background-color: #1d8ad9 !important;
+}
+.MuiRadio-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiCheckbox-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiTab-wrapper{
+  text-transform: none !important;
+}
+.MuiPaper-elevation4{
+  box-shadow: none !important;
+}
+.MuiAppBar-colorDefault {  
+  background-color: #fff !important;
+  border-bottom: 2px solid #eee;
+}
+.MuiTab-textColorPrimary.Mui-selected{
+  font-weight: 600;
+}
+
+.MuiTab-wrapper{
+  flex-direction: unset !important;
+}
+.MuiTab-labelIcon .MuiTab-wrapper > *:first-child{
+  margin-bottom: 0px !important;
+    margin-right: 10px;
+}
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #055BA6 !important;
+}
+
+.MuiTouchRipple-root.Mui-selected{
+  border-bottom: 2px solid #000 !important;
+}
+.PrivateTabIndicator-colorPrimary-64{
+  background-color: #055BA6 !important;
+}
+.PaginationItem-root-3.PaginationItem-selected-15{
+  background-color: #0B8AD9 !important;
+  color: #fff;
+}
+.PaginationItem-root-3:hover, .PaginationItem-root-3:focus {
+  background-color: #0B8AD9 !important;
+  color: #fff;
+}
