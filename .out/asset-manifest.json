@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61fa22ba.chunk.css",
+    "main.js": "/main.5a63fcad8cf3cbb37e6a.bundle.js",
+    "main.css.map": "/static/css/main.61fa22ba.chunk.css.map",
+    "main.js.map": "/main.5a63fcad8cf3cbb37e6a.bundle.js.map",
+    "runtime~main.js": "/runtime~main.5a63fcad8cf3cbb37e6a.bundle.js",
+    "runtime~main.js.map": "/runtime~main.5a63fcad8cf3cbb37e6a.bundle.js.map",
+    "vendors~main.js": "/vendors~main.5a63fcad8cf3cbb37e6a.bundle.js",
+    "vendors~main.js.map": "/vendors~main.5a63fcad8cf3cbb37e6a.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.24adf66c869d97459929e64d83ff3581.js": "/precache-manifest.24adf66c869d97459929e64d83ff3581.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Gameimage.png": "/static/media/Gameimage.b2e07d88.png",
+    "static/media/avatar.png": "/static/media/avatar.377f3a46.png",
+    "static/media/close.svg": "/static/media/close.d4cb1de7.svg",
+    "static/media/info.svg": "/static/media/info.7e69d454.svg",
+    "static/media/plus.svg": "/static/media/plus.21d562ba.svg",
+    "static/media/share.svg": "/static/media/share.90fb9693.svg",
+    "vendors~main.5a63fcad8cf3cbb37e6a.bundle.js.LICENSE.txt": "/vendors~main.5a63fcad8cf3cbb37e6a.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.5a63fcad8cf3cbb37e6a.bundle.js",
+    "vendors~main.5a63fcad8cf3cbb37e6a.bundle.js",
+    "static/css/main.61fa22ba.chunk.css",
+    "main.5a63fcad8cf3cbb37e6a.bundle.js"
+  ]
+}

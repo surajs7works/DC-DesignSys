@@ -1,0 +1,146 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+.m-0{
+  margin: 0px !important;
+}
+
+
+.icon-btn img{
+    position: relative;
+    top: 2px;
+    margin-right: 10px;
+}
+
+.tab-btn img{
+    margin-left: 5px;
+    position: relative;
+    top: 3px;
+}
+.link-btn img{
+    position: relative;
+    top: 7px;
+    margin-right: 10px;
+}
+
+
+.dropdoen-menu-list{
+    background: white;
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    padding: 10px;
+    color: #000;
+    border-radius: 3px;
+    margin-top: 6px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+  }
+
+.dropdoen-menu-list li{
+  list-style: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.dropdoen-menu-list li:hover{
+  color: #055BA6;
+}
+
+
+.Card-content{
+  padding: 10px;
+  float: left;
+}
+.Card-content h4{
+  margin: 10px 0px;
+}
+.short-info li{
+  list-style: none;
+    /* float: left; */
+    display: inline;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.ListCard-content{
+  padding: 5px 10px;
+  float: left;
+}
+
+.ListCard-content h4{
+  margin: 6px 0px;
+}
+
+.MuiSwitch-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiSwitch-colorPrimary.Mui-checked + .MuiSwitch-track {
+  background-color: #1d8ad9 !important;
+}
+.MuiRadio-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiCheckbox-colorPrimary.Mui-checked {
+  color: #0B8AD9 !important;
+}
+.MuiTab-wrapper{
+  text-transform: none !important;
+}
+.MuiPaper-elevation4{
+  box-shadow: none !important;
+}
+.MuiAppBar-colorDefault {  
+  background-color: #fff !important;
+  border-bottom: 2px solid #eee;
+}
+.MuiTab-textColorPrimary.Mui-selected{
+  font-weight: 600;
+}
+
+.MuiTab-wrapper{
+  flex-direction: unset !important;
+}
+.MuiTab-labelIcon .MuiTab-wrapper > *:first-child{
+  margin-bottom: 0px !important;
+    margin-right: 10px;
+}
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #055BA6 !important;
+}
+
+.MuiTouchRipple-root.Mui-selected{
+  border-bottom: 2px solid #000 !important;
+}
+.PrivateTabIndicator-colorPrimary-64{
+  background-color: #055BA6 !important;
+}
+.PaginationItem-root-3.PaginationItem-selected-15{
+  background-color: #0B8AD9 !important;
+  color: #fff;
+}
+.PaginationItem-root-3:hover, .PaginationItem-root-3:focus {
+  background-color: #0B8AD9 !important;
+  color: #fff;
+}
+.makeStyles-root-226{
+  height: 100% !important;
+  background: #eee;
+}
+
+.PrivateTabIndicator-colorSecondary-29 {
+  background-color: #0B8AD9 !important;
+}
+.MuiTab-textColorInherit.Mui-selected{
+  color: #0B8AD9;
+  font-weight: 600;
+}
+
+
+
+.PrivateTabIndicator-colorSecondary-1007{
+  background-color: #0B8AD9 !important;
+}
+
+/*# sourceMappingURL=main.61fa22ba.chunk.css.map*/
