@@ -33,7 +33,7 @@ export class Dropdownbtn extends Component {
   render() {
     return (
       <div>
-        <Button className="whitebtn" onClick={this.showMenu}>
+        <Button className="m-0" onClick={this.showMenu}>
           Show menu <span>&#9662;</span>
         </Button>
 

@@ -3,6 +3,10 @@ body{
   font-weight: normal;
 }
 
+.m-0{
+  margin: 0px !important;
+}
+
 
 .icon-btn img{
     position: relative;
@@ -29,12 +33,17 @@ body{
     color: #000;
     border-radius: 3px;
     margin-top: 6px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 
   }
 
 .dropdoen-menu-list li{
   list-style: none;
   padding: 8px 12px;
+  cursor: pointer;
+}
+.dropdoen-menu-list li:hover{
+  color: #055BA6;
 }
 
 
@@ -112,4 +121,22 @@ body{
 .PaginationItem-root-3:hover, .PaginationItem-root-3:focus {
   background-color: #0B8AD9 !important;
   color: #fff;
+}
+.makeStyles-root-226{
+  height: 100% !important;
+  background: #eee;
+}
+
+.PrivateTabIndicator-colorSecondary-29 {
+  background-color: #0B8AD9 !important;
+}
+.MuiTab-textColorInherit.Mui-selected{
+  color: #0B8AD9;
+  font-weight: 600;
+}
+
+
+
+.PrivateTabIndicator-colorSecondary-1007{
+  background-color: #0B8AD9 !important;
 }

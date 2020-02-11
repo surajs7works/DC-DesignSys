@@ -65,12 +65,3 @@ export const LinkButtonWithIcon = () => (
   </LinkButton>
 );
 
-export const Default = () => (
-  <Buttonb onClick={action("Default button clicked")} variant="contained">
-    Default
-  </Buttonb>
-);
-
-// export const TagButton = () => (
-// <TagButton style={Inactive} onClick={action('clicked')}>Disabled</TagButton>
-// );
